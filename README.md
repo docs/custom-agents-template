@@ -9,8 +9,6 @@ This template repository makes it easy for enterprise and organization owners to
 
 ## Getting started
 
-1. Using this template repository, create a repository called `.github-private` in your organization.
+1. Using this template repository, create a private repository called `.github-private` in your organization.
 1. Edit this README to best meet your needs. Consider including creation guidelines for custom agents or compliance considerations specific to your team.
-1. Edit the provided `agents/example-agent.md` file to create your first custom agent.
-
-    To learn more about creating custom agents, see TODOCS - add link.
+1. Edit the provided `agents/example-agent.md` file to create your first custom agent. To learn more about creating custom agents, see TODOCS - add link.
